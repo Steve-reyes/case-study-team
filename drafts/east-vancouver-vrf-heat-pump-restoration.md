@@ -1,6 +1,12 @@
-# Case Study: How an East Vancouver Apartment Building Restored Heat in 24 Hours with Emergency VRF Repair
-
 ---
+seo:
+  focus_keyphrase: "commercial hvac repair east vancouver"
+  seo_title: "Case Study: East Vancouver Apartment Heat Restored in 24 Hours — Air Solutions Mechanical Ltd."
+  slug: "east-vancouver-apartment-heat-restored-vrf-repair"
+  meta_description: "An East Vancouver apartment building lost heat when their VRF system failed. Air Solutions Mechanical Ltd. restored heating same-day. Read the full commercial HVAC case study."
+---
+
+# How an East Vancouver Apartment Building Got Heat Back in 24 Hours
 
 ## Executive Summary
 
@@ -26,7 +32,7 @@ Previous service providers had a pattern: show up, take a look, order parts, com
 
 When the call came in, Air Solutions Mechanical Ltd. didn't put the building on a waiting list. We dispatched a commercial HVAC technician same-day.
 
-"We showed up same day the call came in, diagnosed the problem and ordered a new circuit board and got the building's heat back online," said Air Solutions Mechanical Ltd..
+"We showed up same day the call came in, diagnosed the problem and ordered a new circuit board and got the building's heat back online," said Air Solutions Mechanical Ltd.
 
 ### What Was Done
 
@@ -89,4 +95,4 @@ Whether it's an emergency VRF repair, a planned retrofit, or a preventive mainte
 
 ---
 
-*Tags: commercial hvac east vancouver, vrf heat pump repair, commercial hvac multi-family, circuit board replacement hvac, emergency hvac vancouver, apartment building hvac, vrf system maintenance, commercial hvac specialist*
+*Tags: commercial hvac east vancouver, vrf heat pump repair, circuit board replacement hvac, emergency hvac vancouver, apartment building hvac*
