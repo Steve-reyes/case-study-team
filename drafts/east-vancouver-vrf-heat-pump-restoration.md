@@ -4,7 +4,7 @@
 
 ## Executive Summary
 
-A multi-family apartment building in East Vancouver lost all heating when their central VRF heat pump system suffered a critical circuit board failure: leaving dozens of tenants without heat. Air Solutions Mechanical deployed a same-day emergency response, diagnosed the root cause on arrival, sourced a replacement circuit board, and restored full heating to the building. The entire process, from distress call to heat restoration, was completed within hours, preventing what could have been a multi-day outage and a cascade of tenant complaints.
+A multi-family apartment building in East Vancouver lost all heating when their central VRF heat pump system suffered a critical circuit board failure: leaving dozens of tenants without heat. Air Solutions Mechanical Ltd. deployed a same-day emergency response, diagnosed the root cause on arrival, sourced a replacement circuit board, and restored full heating to the building. The entire process, from distress call to heat restoration, was completed within hours, preventing what could have been a multi-day outage and a cascade of tenant complaints.
 
 ---
 
@@ -24,9 +24,9 @@ Previous service providers had a pattern: show up, take a look, order parts, com
 
 ## The Solution
 
-When the call came in, Air Solutions Mechanical didn't put the building on a waiting list. We dispatched a commercial HVAC technician same-day.
+When the call came in, Air Solutions Mechanical Ltd. didn't put the building on a waiting list. We dispatched a commercial HVAC technician same-day.
 
-"We showed up same day the call came in, diagnosed the problem and ordered a new circuit board and got the building's heat back online," said Greg, owner of Air Solutions Mechanical.
+"We showed up same day the call came in, diagnosed the problem and ordered a new circuit board and got the building's heat back online," said Air Solutions Mechanical Ltd..
 
 ### What Was Done
 
@@ -82,9 +82,9 @@ For property managers and building owners managing multi-family commercial prope
 
 ## Need Commercial HVAC Solutions?
 
-Whether it's an emergency VRF repair, a planned retrofit, or a preventive maintenance program, Air Solutions Mechanical delivers commercial-grade HVAC expertise for multi-family buildings across Vancouver. Same-day dispatch available for critical failures.
+Whether it's an emergency VRF repair, a planned retrofit, or a preventive maintenance program, Air Solutions Mechanical Ltd. delivers commercial-grade HVAC expertise for multi-family buildings across Vancouver. Same-day dispatch available for critical failures.
 
-**📞 Contact Air Solutions Mechanical today**
+**📞 Contact Air Solutions Mechanical Ltd. today**
 🌐 [airsolutionsmechanical.ca](https://airsolutionsmechanical.ca)
 
 ---
