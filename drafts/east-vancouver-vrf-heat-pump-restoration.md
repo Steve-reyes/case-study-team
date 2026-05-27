@@ -1,7 +1,7 @@
 ---
 seo:
   focus_keyphrase: "commercial hvac repair east vancouver"
-  seo_title: "Case Study: East Vancouver Apartment Heat Restored in 24 Hours — Air Solutions Mechanical Ltd."
+  seo_title: "East Vancouver Heat Restored in 24 Hours | Air Solutions Mechanical Ltd."
   slug: "east-vancouver-apartment-heat-restored-vrf-repair"
   meta_description: "An East Vancouver apartment building lost heat when their VRF system failed. Air Solutions Mechanical Ltd. restored heating same-day. Read the full commercial HVAC case study."
 ---
